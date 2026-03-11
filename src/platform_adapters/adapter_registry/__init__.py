@@ -1,0 +1,1 @@
+"""adapter_registry package."""
